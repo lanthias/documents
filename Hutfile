@@ -3,6 +3,7 @@ name: documents
 
 # Service author - must be a valid StackHut user
 author: lanthias
+github_url: https://github.com/lanthias/documents 
 
 # description of the service
 description: Awesome service in python
@@ -10,3 +11,6 @@ description: Awesome service in python
 # stack we use, in terms of the OS and language runtime
 baseos: fedora
 stack: python
+
+os_deps:
+    - python3-lxml

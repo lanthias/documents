@@ -1,7 +1,7 @@
 {
     "service": "lanthias/documents",
     "req": {
-        "method": "add",
-        "params": [1, 2]
+        "method": "replaceText",
+        "params": ["https://news.microsoft.com/download/presskits/developer/docs/DevToolsBuildDay2FS.docx", "Microsoft", "Debian"]
     }
 }
