@@ -1,0 +1,7 @@
+{
+    "service": "lanthias/documents",
+    "req": {
+        "method": "add",
+        "params": [1, 2]
+    }
+}
